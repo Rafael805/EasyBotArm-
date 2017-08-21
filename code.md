@@ -1,5 +1,5 @@
-c++
-```
+
+```c++
 #include <Servo.h>
 
 //Constants
