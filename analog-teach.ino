@@ -1,5 +1,4 @@
 
-```c++
 #include <Servo.h>
 
 //Constants
@@ -167,4 +166,4 @@ void runTeach(){
   }
   started=false;
 }
-```
+
